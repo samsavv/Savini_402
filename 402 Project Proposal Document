@@ -1,0 +1,31 @@
+For my Senior Project, I will be creating a website for the LMU Computer Science department.
+The main section of this website is intended to educate the user about those who work in CS 
+at LMU, our mission as a department, and moreover, why the user should donate money to our 
+department. This website will also be equipped with a donation portal, where users can send
+donations of any size to the CS department. This is similar to any website (Amazon, for example)
+that aids in the transaction of money from outside users. For software, I will be using the
+bootstrap libraries to easily create a website for both computers and mobile devices. This 
+should be sufficient for the size of the project I am doing. I also will be using paypal’s 
+APIs for the monetary transactions. The hardware required for my project is a computer. The
+end user of my website is hopefully any person who is interested in learning more about our
+department, or making a donation.
+
+	This project holds the necessary requirements needed for a 402 project, and allows me to 
+  participate in a project that I am genuinely interested in doing. I will be applying my 
+  web design knowledge from Interaction Design to this project, as well as my experiences 
+  with web API’s to implement the donation service. Working with a donation API will make 
+  this project a substantial challenge compared to my past experience, as I will be dealing
+  with tentative information with this app that must be safely encrypted and securely 
+  delivered to the paypal service. Working with money is notoriously difficult to do, however
+  I believe my experience, combined with resources such as my professors and public knowledge
+  on the topic online, should make this a reasonable challenge that I can directly address.
+  This project is a perfect difficulty for one student, as it allows me to show my 
+  experiences in web design, yet challenges me to try something new in implementing
+  a fund-based portal into the webpage. I intend to use just a few weeks to get the
+  website up and running, and dedicating a majority of my semester to figuring out 
+  the financial side of the website. Based on my approximate timeline, I believe one
+  semester is sufficient to complete this project. As a fourth year student in CS at
+  LMU, I am fully prepared and capable of taking on a project such as this one. 
+  Moreover, it would be satisfying personally to be able to complete a difficult
+  project such as this one, and simultaneously dedicate a semester of my time 
+  giving back to a department that has already given so much to me.
